@@ -60,7 +60,6 @@ This isn't theoretical. It's how I ship production code across all my companies.
 |---------|-------------|
 | **[hq-starter-kit](https://github.com/coreyepstein/hq-starter-kit)** | The full HQ framework — clone it, make it yours |
 | **[ralph-methodology](https://github.com/coreyepstein/ralph-methodology)** | The autonomous coding loop documentation |
-| **[mr-burns](https://github.com/coreyepstein/mr-burns)** | PRD-driven autonomous coding agent (TUI for Claude Code) |
 | **[advanced-gmail-mcp](https://github.com/coreyepstein/advanced-gmail-mcp)** | Gmail MCP server — multi-account email from the terminal |
 | **[advanced-slack-mcp](https://github.com/coreyepstein/advanced-slack-mcp)** | Slack MCP server — multi-workspace messaging |
 | **[ralph-planner](https://github.com/coreyepstein/ralph-planner)** | Collaborative PRD planning with AI assistance |
