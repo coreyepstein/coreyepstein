@@ -2,11 +2,7 @@
 $ whoami
 ```
 
-**Corey Epstein** — founder, builder, person who taught AI agents to do his job so he could do more of it.
-
-I run multiple companies from a single terminal. Not because I'm efficient — because I built a system that is.
-
-I don't use AI to write code faster. I use it to run entire operations: shipping products, managing email, writing content, analyzing data, deploying to production. Agents that actually work, not demos that look good in a tweet.
+**Corey Epstein** — founder, builder
 
 ```
 "There's a better way. Find it."
