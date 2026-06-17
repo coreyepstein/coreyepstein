@@ -103,9 +103,9 @@ Agents       Gmail MCP · Slack MCP · Post-Bridge · Telegram
 
 ### Background
 
-Serial founder since 18 — 303 Magazine · DSTLD · Voyage · Abacus · Indigo AI.
+Serial founder since 18 — 303 Magazine · DSTLD · Voyage · Indigo AI.
 
-CEO & Founder at [Voyage](https://vyg.ai) (SMS + AI for e-commerce). Chief Design Officer at [Abacus](https://goabacus.co) (enterprise AI for regulated industries). Building [Indigo AI](https://github.com/coreyepstein).
+CEO & Founder at [Voyage](https://vyg.ai) (SMS + AI for e-commerce). Building [Indigo AI](https://github.com/coreyepstein).
 
 MBA from UCLA Anderson. Ex-Deloitte. Father. Musician — 30K+ Spotify listeners, played Coachella, founded [Dear Humans](https://open.spotify.com/artist/1ykENqVxCAlXqnOiSaGN3I) label. Based in Boulder, CO.
 
